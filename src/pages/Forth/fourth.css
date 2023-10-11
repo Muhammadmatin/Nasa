@@ -1,0 +1,60 @@
+.ddd{
+    background-color: black;
+}
+.aaa{
+
+        background: linear-gradient(105deg, #F0590C,#ED3A74,white);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      
+}
+.aaaa{
+
+        background: linear-gradient(350deg, white, #F0590C,#ED3A74,skyblue, #E218EB);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      
+}
+.a1{
+
+        background: linear-gradient(500deg,  #F0590C, #E218EB,skyblue);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      
+}
+.a:hover{
+    border-bottom: 4px solid blue;
+    cursor: pointer;
+}
+.w:hover{
+    font-size: 20px;
+
+    /* margin-left:5%; */
+    /* padding: 5%; */
+    width: 50%;
+    height: 7vh;
+    cursor: pointer;
+    box-shadow: gray  5px 10px 10px;
+    /* margin-right: 2%; */
+    margin-left: 17%;
+    /* animation-duration: 3s; */
+    transition-duration: 1s;
+}
+.r{
+    z-index:1;
+    top: 0 ;
+    /* margin-top: 22%; */
+    /* width: 50%; */
+    /* margin: auto; */
+    /* text-align: center; */
+    /* margin-left: 10%; */
+    
+    height: 25vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    
+}
+
+.rr{
+    z-index: 0;
+}
+
